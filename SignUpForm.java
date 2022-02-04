@@ -1,3 +1,11 @@
+/******************************************************
+ * File         :   SignUpForm.java
+ * Description  :   Program to create a signup form and
+ *                  display details in console.
+ * Author       :   DonaSiby.
+ * Version      :   1.0
+ * Date         :   4/2/2022
+ * ***************************************************/
 package BasicPrograms;
 
 import java.awt.*;
